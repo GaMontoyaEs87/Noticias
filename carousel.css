@@ -46,6 +46,7 @@ body {
 .marketing h2 {
   font-weight: 400;
   background-color: blueviolet;
+  color: aliceblue;
 }
 /* rtl:begin:ignore */
 .marketing .col-lg-4 p {
